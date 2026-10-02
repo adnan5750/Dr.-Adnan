@@ -1,6 +1,1163 @@
 {
-  "updated": null,
-  "source": null,
-  "profile": {},
-  "publications": []
+  "updated": "2026-10-02",
+  "source": "Google Scholar",
+  "profile": {
+    "citations": 5071,
+    "h_index": 43,
+    "i10_index": 94
+  },
+  "publications": [
+    {
+      "title": "Molecularly modified quinoxaline-based unfused nonfullerene acceptors for efficient and stable organic photovoltaics",
+      "authors": "M Hussain, H Naz, Z Irshad, R Hussain, HW Darwish, M Ahmed, ...",
+      "venue": "Journal of Computational Biophysics and Chemistry 25 (11), 2469-2492, 2026",
+      "year": 2026,
+      "citations": 17,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:08ZZubdj9fEC",
+      "doi": "10.1142/S2737416526500183"
+    },
+    {
+      "title": "Impact of Molecular Side‐Chain Modifications on Triphenylamine‐Based Materials as Donors for Organic and as Hole Transporting Materials for Perovskite Solar Cells",
+      "authors": "A Shafiq, M Hussain, R Hussain, Z Irshad, HW Darwish, M Ahmed, ...",
+      "venue": "Energy Technology 14 (1), e202501285, 2026",
+      "year": 2026,
+      "citations": 10,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:tOudhMTPpwUC",
+      "doi": "10.1002/ente.202501285"
+    },
+    {
+      "title": "Structure-property relationships of D-π-D triphenylamine-based conjugated small molecules for organic and perovskite solar cells",
+      "authors": "A Anwar, Z Irshad, R Hussain, M Imran, M Adnan",
+      "venue": "Solar Energy 314, 114670, 2026",
+      "year": 2026,
+      "citations": 3,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:fQNAKQ3IYiAC",
+      "doi": "10.1016/j.solener.2026.114670"
+    },
+    {
+      "title": "Role of Thiophene-Based Halogenated Non-Fused Ring Containing Acceptor Molecules for Efficient Organic Photovoltaics",
+      "authors": "S Iqbal, Z Irshad, R Hussain, HW Darwish, M Ahmed, U Farooq, ...",
+      "venue": "Journal of Computational Biophysics and Chemistry 25 (02), 213-234, 2026",
+      "year": 2026,
+      "citations": 3,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:KxtntwgDAa4C",
+      "doi": "10.1142/S2737416525500449"
+    },
+    {
+      "title": "Elucidating the impact of photo-isomeric dithienylcyclopentene-based molecular switches for efficient nonlinear optics",
+      "authors": "MH Ali, F Chaudhry, U Farooq, M Salman, R Hussain, M Adnan",
+      "venue": "Structural Chemistry 37 (2), 865-881, 2026",
+      "year": 2026,
+      "citations": 2,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:738O_yMBCRsC",
+      "doi": ""
+    },
+    {
+      "title": "Quantum chemical prediction and benchmark study for structural isomers of terpyridine: electronic structure modulations and charge transfer dynamics",
+      "authors": "S Ehsan, S Muhammad, S Bibi, S urRehman, AG Al-Sehemi, A Kalam, ...",
+      "venue": "Physical Chemistry Chemical Physics 28 (10), 6331-6352, 2026",
+      "year": 2026,
+      "citations": 2,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:sSrBHYA8nusC",
+      "doi": "10.1039/D5CP04342E"
+    },
+    {
+      "title": "Precise Tuning of Charge Transport Characteristics in Donor–Acceptor Oligomers Using Dibenzothiophene‐S, S‐Dioxide for Efficient Organic Field‐Effect Transistors",
+      "authors": "S Munawar, R Hussain, Z Irshad, M Zubair, MA Ayub, HW Darwish, ...",
+      "venue": "Energy Technology 14 (3), e202501729, 2026",
+      "year": 2026,
+      "citations": 2,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:geHnlv5EZngC",
+      "doi": ""
+    },
+    {
+      "title": "Dual-functional additives for stable perovskite thin films",
+      "authors": "S Yun, MS Bae, M Adnan, Z Irshad, W Lee, H Han, TY Yang, HS Chang, ...",
+      "venue": "RSC Sustainability 4 (1), 304-314, 2026",
+      "year": 2026,
+      "citations": 2,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:4fKUyHm3Qg0C",
+      "doi": "10.1039/D5SU00499C"
+    },
+    {
+      "title": "Effect of molecular planarity and aromaticity on third-order NLO polarizability for exploration of fused heterocyclic carbazole derivatives",
+      "authors": "R Fatima, S Bibi, S Urrehman, Ramiza, S Muhammad, M Adnan",
+      "venue": "International Journal of Modern Physics B 40 (14), 2650123, 2026",
+      "year": 2026,
+      "citations": 1,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:5Ul4iDaHHb8C",
+      "doi": "10.1142/S0217979226501237"
+    },
+    {
+      "title": "Enhancement in Optical and Optoelectronic Properties of Fluorinated Non-Fused Ring Electron Acceptors for Efficient Organic Photovoltaics",
+      "authors": "UE Habiba, R Hussain, Z Irshad, HW Darwish, SP Bhujbal, MA Ayub, ...",
+      "venue": "Journal of Computational Biophysics and Chemistry, 1-24, 2026",
+      "year": 2026,
+      "citations": 1,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:VOx2b1Wkg3QC",
+      "doi": "10.1142/S2737416526500882"
+    },
+    {
+      "title": "Strategic π-bridge modification of a BODIPY-based donor for enhanced charge transport and photovoltaic efficiency in organic solar cells",
+      "authors": "M Ijaz, F Zafar, WI Zafar, A Rani, R Hussain, A Faraz, J Iqbal, M Adnan, ...",
+      "venue": "Journal of Materials Science 61 (15), 10461-10487, 2026",
+      "year": 2026,
+      "citations": 1,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:LPZeul_q3PIC",
+      "doi": ""
+    },
+    {
+      "title": "Investigating Charge-Carrier Dynamics in Heteroatom-Functionalized Triphenylamine Hole Transport Materials for Perovskite Solar Cells",
+      "authors": "F Iram, Z Irshad, R Hussain, M Imran, M Ahmed, M Adnan, JK Lee",
+      "venue": "Journal of Fluorescence, 1-24, 2026",
+      "year": 2026,
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:D_sINldO8mEC",
+      "doi": "10.1007/s10895-026-04889-z"
+    },
+    {
+      "title": "Elucidating the potential of phenoxazine-based molecules as donors for organic and as hole transport materials for efficient perovskite solar cells",
+      "authors": "A Ghaffar, Z Irshad, R Hussain, A Ghaffar, HW Darwish, F Zafar, Z Huma, ...",
+      "venue": "Journal of Materials Science, 1-27, 2026",
+      "year": 2026,
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:eJXPG6dFmWUC",
+      "doi": "10.1007/s10853-026-13326-2"
+    },
+    {
+      "title": "Bulk Passivation via Surface Engineering with Low‐Dimensional Inorganic Perovskites",
+      "authors": "W Lee, J Cha, M Adnan, Z Irshad, S Kim, S Yun, H Han, CK Song, ...",
+      "venue": "Advanced Materials Interfaces 13 (5), e00980, 2026",
+      "year": 2026,
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:8AbLer7MMksC",
+      "doi": ""
+    },
+    {
+      "title": "Advancing heteroatom-enhanced A-DA’DA pentacyclic small molecule-based acceptors to improve the optoelectronic characteristics for organic photovoltaics",
+      "authors": "A Ghaffar, M Adnan, Z Irshad, R Hussain, A Ghaffar, HW Darwish, ...",
+      "venue": "Journal of Physics and Chemistry of Solids 200, 112610, 2025",
+      "year": 2025,
+      "citations": 40,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:NhqRSupF_l8C",
+      "doi": ""
+    },
+    {
+      "title": "Improving Optoelectronic Properties of Acceptor–Donor–Acceptor‐Type Non‐Fullerene Acceptors Containing Extended Fused Ring Donor Units for Efficient Organic Semiconductors",
+      "authors": "Salwa, M Adnan, Z Irshad, R Hussain, HW Darwish, F Hussain, M Ahmed",
+      "venue": "Energy Technology 13 (3), 2401529, 2025",
+      "year": 2025,
+      "citations": 35,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:pyW8ca7W8N0C",
+      "doi": "10.1002/ente.202401529"
+    },
+    {
+      "title": "Elucidating the Potential of Nonlinear Optical Behavior of Azo Dyes for Advanced Laser‐Based Technologies",
+      "authors": "MN Mustafa, F Hussain, M Hussain, R Hussain, K Ayub, S Muhammad, ...",
+      "venue": "Advanced Theory and Simulations 8 (4), 2401202, 2025",
+      "year": 2025,
+      "citations": 34,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:abG-DnoFyZgC",
+      "doi": ""
+    },
+    {
+      "title": "Impact of structural advancements interface engineering operational stability and commercial viability of perovskite/silicon tandem solar cells",
+      "authors": "M Adnan, Z Irshad, J Lim",
+      "venue": "Solar Energy 286, 113190, 2025",
+      "year": 2025,
+      "citations": 29,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:b0M2c_1WBrUC",
+      "doi": "10.1016/j.solener.2024.113190"
+    },
+    {
+      "title": "Modulation of third-order nonlinear optical response in copper-induced gold nanoclusters",
+      "authors": "F Hussain, R Hussain, Z Irshad, M Hussain, MU Khan, J Yaqoob, K Ayub, ...",
+      "venue": "The Journal of Physical Chemistry A 129 (34), 7853-7862, 2025",
+      "year": 2025,
+      "citations": 28,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:WbkHhVStYXYC",
+      "doi": "10.1021/acs.jpca.5c04139"
+    },
+    {
+      "title": "Impact of end-capped acceptor modification in anthanthrone-based D-π-A type donor materials for organic and as hole transporting materials for perovskite solar cells",
+      "authors": "N Shahzad, SAS Chatha, R Hussain, S Hussain, J Iqbal, M Adnan",
+      "venue": "Journal of Fluorescence 35 (11), 10499-10524, 2025",
+      "year": 2025,
+      "citations": 25,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:UxriW0iASnsC",
+      "doi": ""
+    },
+    {
+      "title": "Tailoring Optoelectronic Properties of A–D–A Type Nonfullerene Acceptors with Fused Aromatic Thiophene-Furan Bridges for Efficient Organic Photovoltaics",
+      "authors": "F Hussain, M Hussain, T Hassan, R Hussain, AA Haidry, Z Irshad, ...",
+      "venue": "Journal of Computational Biophysics and Chemistry 24 (05), 659-678, 2025",
+      "year": 2025,
+      "citations": 25,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:u9iWguZQMMsC",
+      "doi": "10.1142/S2737416524500765"
+    },
+    {
+      "title": "Advancements in optical and optoelectronic characteristics of benzotriazole-based asymmetric non-fullerene acceptors for organic photovoltaics",
+      "authors": "F Tahir, M Adnan, Z Irshad, R Hussain, HW Darwish, MMA Iqbal, ...",
+      "venue": "Journal of Physics and Chemistry of Solids 196, 112301, 2025",
+      "year": 2025,
+      "citations": 22,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:dfsIfKJdRG4C",
+      "doi": "10.1016/j.jpcs.2024.112301"
+    },
+    {
+      "title": "Role of Near-IR Sensitive Asymmetric A–DAD––A-type Non-Fullerene Acceptors for Efficient Organic Solar Cells: A Theoretical Insight",
+      "authors": "M Adnan, I Munir, R Hussain, Z Irshad, R Hussain, SA Siddique, ...",
+      "venue": "Journal of Computational Biophysics and Chemistry 24 (01), 103-122, 2025",
+      "year": 2025,
+      "citations": 14,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:cFHS6HbyZ2cC",
+      "doi": "10.1142/S2737416524500546"
+    },
+    {
+      "title": "Development of cost-effective diphenylamine substituted hole transporting materials for organic and perovskite solar cells",
+      "authors": "H Naz, M Adnan, Z Irshad, R Hussain, HW Darwish, J Yaqoob",
+      "venue": "Materials Science in Semiconductor Processing 186, 109089, 2025",
+      "year": 2025,
+      "citations": 12,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:f2IySw72cVMC",
+      "doi": ""
+    },
+    {
+      "title": "Enhancing Optical and Optoelectronic Characteristics of Nonfused Ring-Containing Electron Acceptors for Efficient Organic Photovoltaics",
+      "authors": "H Naz, M Hussain, M Adnan, R Hussain, Z Irshad, HW Darwish, U Farooq, ...",
+      "venue": "The Journal of Physical Chemistry C 129 (26), 12204-12223, 2025",
+      "year": 2025,
+      "citations": 11,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:OU6Ihb5iCvQC",
+      "doi": "10.1021/acs.jpcc.5c03016"
+    },
+    {
+      "title": "Experimental and computational analysis of benzothiophene as a selective inhibitors of diabetes mellitus",
+      "authors": "S Khan, MU Rehman, T Iqbal, Z Fiaz, P Taslimi, HW Darwish, M Adnan",
+      "venue": "Journal of Molecular Graphics and Modelling 138, 109010, 2025",
+      "year": 2025,
+      "citations": 9,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:uWQEDVKXjbEC",
+      "doi": ""
+    },
+    {
+      "title": "Molecular Engineering of Unidirectional Non‐Fused π‐Bridge Containing Asymmetric Non‐Fullerene Acceptors for High‐Performance Organic Solar Cells",
+      "authors": "P Saeed, M Adnan, Z Irshad, R Hussain, HW Darwish, M Hussain, ...",
+      "venue": "Energy Technology 13 (10), 2402465, 2025",
+      "year": 2025,
+      "citations": 8,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:P5F9QuxV20EC",
+      "doi": "10.1002/ente.202402465"
+    },
+    {
+      "title": "Structural engineering of small molecule-based narrow bandgap dithieno-3, 2-b: 2′, 3′-dlpyrrole-based non-fullerene electron acceptors for efficient organic solar cells",
+      "authors": "A Ghaffar, M Adnan, Z Irshad, R Hussain, A Ghaffar, HW Darwish, F Zafar, ...",
+      "venue": "Materials Chemistry and Physics 337, 130611, 2025",
+      "year": 2025,
+      "citations": 8,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:CHSYGLWDkRkC",
+      "doi": "10.1016/j.matchemphys.2025.130611"
+    },
+    {
+      "title": "Deciphering the Role of Rhodanine Flanked Non-Fullerene Acceptor Molecules for Efficient Organic Photovoltaics",
+      "authors": "Z Irshad, M Hussain, R Hussain, M Adnan",
+      "venue": "International Journal of Molecular Sciences 26 (7), 3314, 2025",
+      "year": 2025,
+      "citations": 8,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:nb7KW1ujOQ8C",
+      "doi": "10.3390/ijms26073314"
+    },
+    {
+      "title": "Molecular Designing and Simulation‐Driven Exploration of Benzotrithiophene‐Based Semiconductors for Organic Photovoltaics",
+      "authors": "RM Ahmed, M Adnan, Z Irshad, R Hussain, HW Darwish, J Lim",
+      "venue": "ChemistrySelect 10 (6), e202402291, 2025",
+      "year": 2025,
+      "citations": 7,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:xtRiw3GOFMkC",
+      "doi": ""
+    },
+    {
+      "title": "Strain uniformity and defect passivation via 2D organic halide salts to improve the air stability of perovskite solar cells",
+      "authors": "Z Irshad, M Adnan, W Lee, S Kim, S Yun, H Han, S Hong, JH Bae, ...",
+      "venue": "Journal of Materials Chemistry A 13 (41), 35411-35425, 2025",
+      "year": 2025,
+      "citations": 6,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:l7t_Zn2s7bgC",
+      "doi": "10.1039/D5TA05217C"
+    },
+    {
+      "title": "Deciphering the role of tilde-shaped rhodanine-based non-fullerene acceptor materials for efficient organic photovoltaics",
+      "authors": "F Tahir, M Adnan, M Hussain, R Hussain, Z Irshad, HW Darwish, ...",
+      "venue": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 127287, 2025",
+      "year": 2025,
+      "citations": 5,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:B3FOqHPlNUQC",
+      "doi": ""
+    },
+    {
+      "title": "Structure–property relationship and design of carbazole naphthalene-based linear materials for organic and perovskite photovoltaics",
+      "authors": "A Ghaffar, Z Irshad, R Hussain, A Ghaffar, HW Darwish, MMA Iqbal, ...",
+      "venue": "RSC advances 15 (41), 34049-34067, 2025",
+      "year": 2025,
+      "citations": 5,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:K3LRdlH-MEoC",
+      "doi": "10.1039/D5RA06095H"
+    },
+    {
+      "title": "Structural engineering of fluorene-based fused-ring containing molecular acceptors for efficient organic photovoltaics",
+      "authors": "P Saeed, Z Irshad, R Hussain, RA Shehzad, HW Darwish, M Adnan",
+      "venue": "Structural Chemistry, 1-26, 2025",
+      "year": 2025,
+      "citations": 3,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:tS2w5q8j5-wC",
+      "doi": ""
+    },
+    {
+      "title": "Designing of bithiophene based compatible non-fullerene acceptors with enhanced photovoltaic properties",
+      "authors": "F Zafar, A Rani, R Irshad, F Bashir, WI Zafar, R Hussain, J Iqbal, M Adnan",
+      "venue": "Materials Science in Semiconductor Processing 195, 109604, 2025",
+      "year": 2025,
+      "citations": 3,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:p2g8aNsByqUC",
+      "doi": ""
+    },
+    {
+      "title": "Electron Transport Bilayer Design for Perovskite‐Based Tandem Solar Cells Using Thermal Evaporation",
+      "authors": "S Yun, H Han, M Adnan, W Lee, M Kim, J Lim, J Kim",
+      "venue": "Chemistry‐Methods 5 (10), e202500015, 2025",
+      "year": 2025,
+      "citations": 2,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:dshw04ExmUIC",
+      "doi": ""
+    },
+    {
+      "title": "Optimizing nonlinear optical and photovoltaic performance in butterfly-shaped carbazole vs. borole derivatives: An implicit and explicit solvents-driven approach",
+      "authors": "S Fatima, S Muhammad, M Adnan, S Kumar, AR Chaudhry, A Alexandar",
+      "venue": "Journal of Molecular Graphics and Modelling 138, 109043, 2025",
+      "year": 2025,
+      "citations": 2,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:SP6oXDckpogC",
+      "doi": ""
+    },
+    {
+      "title": "In silico designing of indacene core based acceptor materials with promising optoelectronic properties",
+      "authors": "A Khanum, F Zafar, A Rani, WI Zafar, R Hussain, M Ijaz, J Iqbal, M Adnan",
+      "venue": "Computational and Theoretical Chemistry, 115563, 2025",
+      "year": 2025,
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:vRqMK49ujn8C",
+      "doi": ""
+    },
+    {
+      "title": "Managing Interfacial Defects and Charge‐Carriers Dynamics by a Cesium‐Doped SnO2 for Air Stable Perovskite Solar Cells",
+      "authors": "M Adnan, W Lee, Z Irshad, S Kim, S Yun, H Han, HS Chang, J Lim",
+      "venue": "Small 20 (37), 2402268, 2024",
+      "year": 2024,
+      "citations": 51,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:ZHo1McVdvXMC",
+      "doi": "10.1002/smll.202402268"
+    },
+    {
+      "title": "Elucidating charge carrier dynamics in perovskite‐based tandem solar cells",
+      "authors": "Z Irshad, W Lee, M Adnan, Y Choi, T Park, J Lim",
+      "venue": "Small Methods 8 (2), 2300238, 2024",
+      "year": 2024,
+      "citations": 32,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:GnPB-g6toBAC",
+      "doi": "10.1002/smtd.202300238"
+    },
+    {
+      "title": "Advancing optoelectronic characteristics of Diketopyrrolopyrrole-Based molecules as donors for organic and as hole transporting materials for perovskite solar cells",
+      "authors": "M Adnan, M Kashif, Z Irshad, R Hussain, HW Darwish, J Lim",
+      "venue": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 320, 124615, 2024",
+      "year": 2024,
+      "citations": 29,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:rO6llkc54NcC",
+      "doi": "10.1016/j.saa.2024.124615"
+    },
+    {
+      "title": "Elucidating the advancement in the optoelectronics characteristics of benzoselenadiazole-based A2-D-A1-D-A2-type nonfullerene acceptors for efficient organic solar cells",
+      "authors": "H Naz, M Adnan, Z Irshad, R Hussain, HW Darwish, M Ahmed",
+      "venue": "ACS omega 9 (44), 44668-44688, 2024",
+      "year": 2024,
+      "citations": 18,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:D03iK_w7-QYC",
+      "doi": "10.1021/acsomega.4c07436"
+    },
+    {
+      "title": "Recent advancements and challenges in highly stable all-inorganic perovskite solar cells",
+      "authors": "S Kim, M Adnan, Z Irshad, W Lee, S Yun, H Han, J Lim",
+      "venue": "Materials Today Electronics 10, 100127, 2024",
+      "year": 2024,
+      "citations": 17,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:_xSYboBqXhAC",
+      "doi": ""
+    },
+    {
+      "title": "Impact of end‐capped engineering on the optoelectronic characteristics of pyrene‐based non‐fullerene acceptors for organic photovoltaics",
+      "authors": "Qundeel, M Adnan, R Hussain, RA Shehzad, S Muhammad, G Mustafa, ...",
+      "venue": "International Journal of Quantum Chemistry 124 (5), e27344, 2024",
+      "year": 2024,
+      "citations": 17,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:pqnbT2bcN3wC",
+      "doi": "10.1002/qua.27344"
+    },
+    {
+      "title": "Correlating chemical structure and charge carrier dynamics in phenanthrocarbazole‐based hole transporting materials for efficient perovskite solar cells",
+      "authors": "M Hussain, M Adnan, Z Irshad, R Hussain, HW Darwish, J Lim",
+      "venue": "Journal of Physical Organic Chemistry 37 (12), e4662, 2024",
+      "year": 2024,
+      "citations": 16,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:yD5IFk8b50cC",
+      "doi": "10.1002/poc.4662"
+    },
+    {
+      "title": "Development of dopant-free N, N′-bicarbazole-based hole transport materials for efficient perovskite solar cells",
+      "authors": "M Adnan, H Naz, M Hussain, Z Irshad, R Hussain, HW Darwish",
+      "venue": "International Journal of Molecular Sciences 25 (23), 13117, 2024",
+      "year": 2024,
+      "citations": 14,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:EUQCXRtRnyEC",
+      "doi": "10.3390/ijms252313117"
+    },
+    {
+      "title": "Molecular engineering of indacenodifuran-based non-fullerene acceptors for efficient organic solar cells",
+      "authors": "M Hussain, M Adnan, R Hussain, Z Irshad, AA Haidry, AR Chaudhry",
+      "venue": "Polycyclic Aromatic Compounds 44 (10), 6806-6833, 2024",
+      "year": 2024,
+      "citations": 14,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:2P1L_qKh6hAC",
+      "doi": "10.1080/10406638.2023.2284801"
+    },
+    {
+      "title": "Sequential‐dip‐coating processed mixed organic and inorganic perovskite film from halide‐free lead precursor for efficient perovskite solar cells",
+      "authors": "Z Irshad, M Adnan, HJ Kim, JK Lee",
+      "venue": "Bulletin of the Korean Chemical Society 45 (7), 631-638, 2024",
+      "year": 2024,
+      "citations": 14,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:3s1wT3WcHBgC",
+      "doi": "10.1002/bkcs.12882"
+    },
+    {
+      "title": "Quantum chemical framework for tailoring N/B doped phenalene derivatives to achieve high performance nonlinear optical materials",
+      "authors": "S Fatima, S Muhammad, S Bibi, KS Munawar, AG Al-Sehemi, ...",
+      "venue": "Journal of Molecular Graphics and Modelling 128, 108723, 2024",
+      "year": 2024,
+      "citations": 13,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:g5m5HwL7SMYC",
+      "doi": "10.1016/j.jmgm.2024.108723"
+    },
+    {
+      "title": "Molecular engineering of benzothiadiazole core based non-fullerene acceptors to tune the optoelectronic properties of perovskite solar cells",
+      "authors": "A Rani, F Zafar, R Hussain, WI Zafar, A Khanum, M Adnan",
+      "venue": "Computational and Theoretical Chemistry 1237, 114637, 2024",
+      "year": 2024,
+      "citations": 10,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:SeFeTyx0c_EC",
+      "doi": "10.1016/j.comptc.2024.114637"
+    },
+    {
+      "title": "Systematic Engineering of Near-Infrared Small Molecules Based on 4H-Cyclopenta [1, 2-b: 5, 4-b′] dithiophene Acceptors for Organic Solar Cells",
+      "authors": "M Hussain, M Adnan, Z Irshad, R Hussain, HW Darwish",
+      "venue": "ACS omega 9 (26), 28791, 2024",
+      "year": 2024,
+      "citations": 10,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:fPk4N6BV_jEC",
+      "doi": "10.1021/acsomega.4c03181"
+    },
+    {
+      "title": "Systematic quantum chemical tailoring to the molecular structure, optical and nonlinear optical properties of N/B dopped C60 buckminsterfullerene",
+      "authors": "S Muhammad, F Sarwar, S Hussain, AG Al-Sehemi, A Ali, BU Haq, ...",
+      "venue": "Materials Science in Semiconductor Processing 173, 108103, 2024",
+      "year": 2024,
+      "citations": 10,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:ldfaerwXgEUC",
+      "doi": "10.1016/j.mssp.2023.108103"
+    },
+    {
+      "title": "Quantum chemical tailoring of intrinsic donor–acceptor configurations as efficient nonlinear optical materials",
+      "authors": "S Muhammad, F Sarwar, S Hussain, A Rafique, A Ali, M Adnan, MA Gilani, ...",
+      "venue": "Optical and Quantum Electronics 56 (11), 1850, 2024",
+      "year": 2024,
+      "citations": 9,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:bFI3QPDXJZMC",
+      "doi": ""
+    },
+    {
+      "title": "Elucidating the potential of nitrogen-containing heterocyclic core-based non-fullerene acceptors for organic photovoltaic applications",
+      "authors": "S Safdar, M Adnan, R Hussain, Z Irshad, HW Darwish, J Yaqoob",
+      "venue": "Journal of Physics and Chemistry of Solids 193, 112158, 2024",
+      "year": 2024,
+      "citations": 8,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:XiSMed-E-HIC",
+      "doi": ""
+    },
+    {
+      "title": "Synthesis, spectral analysis and molecular docking investigation of thiadiazole based sulfonamide derivatives: an effective approach toward Alzheimer's disease",
+      "authors": "S Khan, R Hussain, Y Khan, T Iqbal, Y Tahir, A Hafeez, HW Darwish, ...",
+      "venue": "ChemistrySelect 9 (32), e202401473, 2024",
+      "year": 2024,
+      "citations": 7,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:a0OBvERweLwC",
+      "doi": "10.1002/slct.202401473"
+    },
+    {
+      "title": "Systematic Modeling of N-Type D–A–D Conjugated Small Molecule-Based Nonfullerene Acceptors for Organic Photovoltaics",
+      "authors": "M Hussain, M Adnan, Z Irshad, R Hussain, HW Darwish, MMA Iqbal",
+      "venue": "Journal of Computational Biophysics and Chemistry 23 (07), 869-889, 2024",
+      "year": 2024,
+      "citations": 6,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:zA6iFVUQeVQC",
+      "doi": "10.1142/S2737416524500170"
+    },
+    {
+      "title": "Elucidating interfacial hole extraction and recombination kinetics in perovskite thin films",
+      "authors": "S Kim, W Lee, Z Irshad, S Yun, H Han, M Adnan, HS Chang, J Lim",
+      "venue": "Energies 17 (9), 2062, 2024",
+      "year": 2024,
+      "citations": 6,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:HoB7MX3m0LUC",
+      "doi": "10.3390/en17092062"
+    },
+    {
+      "title": "Tuning of Optoelectronic Characteristics of Quinoxalineimide-based Novel Non-Fullerene Acceptors for Organic Photovoltaic Applications",
+      "authors": "M Adnan, M Sufyan, Z Irshad, R Hussain, HW Darwish, K Atiq, J Lim",
+      "venue": "Journal of Computational Biophysics and Chemistry 23 (08), 1073-1092, 2024",
+      "year": 2024,
+      "citations": 4,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:4OULZ7Gr8RgC",
+      "doi": "10.1142/S2737416524500297"
+    },
+    {
+      "title": "Designing of silolothiophene-linked triphenylamine-based hole transporting materials for perovskites and donors for organic solar cells-A DFT study",
+      "authors": "R Hussain, M Adnan, K Atiq, MU Khan, ZH Farooqi, J Iqbal, R Begum",
+      "venue": "Solar Energy 253, 187-198, 2023",
+      "year": 2023,
+      "citations": 78,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:bEWYMUwI8FkC",
+      "doi": "10.1016/j.solener.2023.02.016"
+    },
+    {
+      "title": "Molecular engineering of Pyran‐fused acceptor–donor–acceptor‐type non‐fullerene acceptors for highly efficient organic solar cells—A density functional theory approach",
+      "authors": "T Hassan, M Adnan, R Hussain, F Hussain, MU Khan",
+      "venue": "Journal of Physical Organic Chemistry 36 (8), e4507, 2023",
+      "year": 2023,
+      "citations": 50,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:JV2RwH3_ST0C",
+      "doi": "10.1002/poc.4507"
+    },
+    {
+      "title": "Influence of end-capped engineering on 3-dimenional star-shaped triphenylamine-based donor materials for efficient organic solar cells",
+      "authors": "M Adnan, Z Irshad, R Hussain, W Lee, JY Yang, J Lim",
+      "venue": "Arabian Journal of Chemistry 16 (6), 104709, 2023",
+      "year": 2023,
+      "citations": 47,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:TFP_iSt0sucC",
+      "doi": "10.1016/j.arabjc.2023.104709"
+    },
+    {
+      "title": "Efficient ternary active layer materials for organic photovoltaics",
+      "authors": "M Adnan, Z Irshad, R Hussain, W Lee, M Kim, J Lim",
+      "venue": "Solar Energy 257, 324-343, 2023",
+      "year": 2023,
+      "citations": 41,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:blknAaTinKkC",
+      "doi": "10.1016/j.solener.2023.04.012"
+    },
+    {
+      "title": "Fused ring pyrrolo [3, 2-b] pyrrole-based tilde-shaped acceptor molecules for highly efficient organic solar cells",
+      "authors": "K Atiq, M Adnan, S Muhammad, R Hussain, Z Irshad, MU Khan",
+      "venue": "Journal of Physics and Chemistry of Solids 176, 111228, 2023",
+      "year": 2023,
+      "citations": 40,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:iH-uZ7U-co4C",
+      "doi": "10.1016/j.jpcs.2023.111228"
+    },
+    {
+      "title": "Molecular engineering of anthracene core-based hole-transporting materials for organic and perovskite photovoltaics",
+      "authors": "A Shafiq, M Adnan, R Hussain, Z Irshad, U Farooq, S Muhammad",
+      "venue": "ACS omega 8 (39), 35937, 2023",
+      "year": 2023,
+      "citations": 39,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:70eg2SAEIzsC",
+      "doi": "10.1021/acsomega.3c03790"
+    },
+    {
+      "title": "The future of energy storage: Advancements and roadmaps for lithium-ion batteries",
+      "authors": "M Adnan",
+      "venue": "International Journal of Molecular Sciences 24 (8), 7457, 2023",
+      "year": 2023,
+      "citations": 38,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:M3NEmzRMIkIC",
+      "doi": "10.3390/ijms24087457"
+    },
+    {
+      "title": "Modeling of conjugated core-based non-fullerene acceptor materials for organic photovoltaic applications",
+      "authors": "M Adnan, M Faisal, R Hussain, M Usman Khan, J Yaqoob, F Hussain, ...",
+      "venue": "Journal of Computational Biophysics and Chemistry 22 (06), 725-750, 2023",
+      "year": 2023,
+      "citations": 37,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:M05iB0D1s5AC",
+      "doi": "10.1142/S2737416523500370"
+    },
+    {
+      "title": "Molecular modelling of fused heterocycle-based asymmetric non-fullerene acceptors for efficient organic solar cells",
+      "authors": "M Adnan, Z Irshad, W Lee, R Hussain, S Kim, S Yun, N Jung, J Lim",
+      "venue": "Journal of Saudi Chemical Society 27 (6), 101739, 2023",
+      "year": 2023,
+      "citations": 30,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:35N4QoGY0k4C",
+      "doi": "10.1016/j.jscs.2023.101739"
+    },
+    {
+      "title": "Elucidating modelling of C≡ N-based carbazole-arylamine hole transporting materials for efficient organic and perovskite solar cells",
+      "authors": "M Ambreen, M Adnan, R Hussain, Z Irshad, J Yaqoob, MU Khan, F Zafar",
+      "venue": "Journal of Physics and Chemistry of Solids 182, 111581, 2023",
+      "year": 2023,
+      "citations": 29,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:RYcK_YlVTxYC",
+      "doi": "10.1016/j.jpcs.2023.111581"
+    },
+    {
+      "title": "Role of 9-phenyl-9H-carbazole based hole transport materials for organic and perovskite photovoltaics",
+      "authors": "S Safdar, M Adnan, R Hussain, J Yaqoob, MU Khan, Z Irshad, ...",
+      "venue": "Synthetic Metals 297, 117414, 2023",
+      "year": 2023,
+      "citations": 25,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:ns9cj8rnVeAC",
+      "doi": "10.1016/j.synthmet.2023.117414"
+    },
+    {
+      "title": "A computational study for optical and nonlinear optical properties of distinctive V-shaped cyclopenta dithiophene derivatives",
+      "authors": "S Muhammad, F Sarwar, SS Alarfaji, AG Al-Sehemi, M Adnan, S Kumar, ...",
+      "venue": "Optical and Quantum Electronics 55 (10), 895, 2023",
+      "year": 2023,
+      "citations": 20,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:J_g5lzvAfSwC",
+      "doi": "10.1007/s11082-023-05180-2"
+    },
+    {
+      "title": "Designing spiro-bifluorene core-based promising molecules with enhanced optoelectronic attributes for high efficiency solar cell devices",
+      "authors": "F Zafar, R Hussain, M Adnan, A Rani, J Lim, WUI Zafar, J Iqbal, MN Shahi",
+      "venue": "Molecular Physics 121 (21), e2231571, 2023",
+      "year": 2023,
+      "citations": 16,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:RGFaLdJalmkC",
+      "doi": "10.1080/00268976.2023.2231571"
+    },
+    {
+      "title": "In silico end‐capped engineering of 4, 4′‐dimethyl‐[2, 2′‐bithiazole] core‐based acceptor materials for high‐performance organic solar cells",
+      "authors": "S Kousar, F Zafar, A Rani, R Hussain, J Iqbal, MA Abid, WUI Zafar, ...",
+      "venue": "Journal of Physical Organic Chemistry 36 (11), e4557, 2023",
+      "year": 2023,
+      "citations": 16,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:lSLTfruPkqcC",
+      "doi": "10.1002/poc.4557"
+    },
+    {
+      "title": "Impact of π-linker modifications on the photovoltaic performance of organic solar cells: A theoratical perspective",
+      "authors": "A Rani, F Zafar, R Hussain, M Adnan, J Iqbal, WUI Zafar, MN Shahi, ...",
+      "venue": "Computational and Theoretical Chemistry 1225, 114137, 2023",
+      "year": 2023,
+      "citations": 16,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:hMod-77fHWUC",
+      "doi": "10.1016/j.comptc.2023.114137"
+    },
+    {
+      "title": "Role of aromatic heterocyclic core-based materials as donors for organic and as hole-transporting materials for perovskites solar cells",
+      "authors": "M Adnan, Q Fatima, Z Irshad, R Hussain, J Yaqoob, MU Khan, N Ansari, ...",
+      "venue": "Journal of Computational Biophysics and Chemistry 22 (08), 897-913, 2023",
+      "year": 2023,
+      "citations": 14,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:O3NaXMp0MMsC",
+      "doi": "10.1142/s2737416523420012"
+    },
+    {
+      "title": "Demonstration Functional Group of Additive to Improve Light Stability for Perovskite Film",
+      "authors": "S Kim, S Yun, H Han, A Muhammad, Z Irshad, J Lim",
+      "venue": "한국태양에너지학회 학술대회논문집, 217-217, 2023",
+      "year": 2023,
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:BqipwSGYUEgC",
+      "doi": ""
+    },
+    {
+      "title": "Proof of Photometric Characteristics Depending on HTL Thickness and Materials Using Spectroscopy Measurement",
+      "authors": "S Kim, W Lee, S Yun, H Han, A Muhammad, Z Irshard, J Lim",
+      "venue": "한국태양에너지학회 학술대회논문집, 218-218, 2023",
+      "year": 2023,
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:YFjsv_pBGBYC",
+      "doi": ""
+    },
+    {
+      "title": "Revealing Defect Densities in Hybrid Perovskite Films via Space-Charge-Limited Current Measurements",
+      "authors": "S Yun, W Lee, S Kim, H Han, A Muhammad, Z Irshad, J Lim",
+      "venue": "한국태양에너지학회 학술대회논문집, 214-214, 2023",
+      "year": 2023,
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:NMxIlDl6LWMC",
+      "doi": ""
+    },
+    {
+      "title": "Synergistic engineering of end-capped acceptor and bridge on arylborane-arylamine macrocycles to boost the photovoltaic properties of organic solar cells",
+      "authors": "A Rasool, S Zahid, M Ans, J Iqbal, M Adnan, ESM Sherif, MS Al-Buriahi",
+      "venue": "Optical Materials 123, 111907, 2022",
+      "year": 2022,
+      "citations": 84,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:qUcmZB5y_30C",
+      "doi": ""
+    },
+    {
+      "title": "Development of non-fused acceptor materials with 3D-Interpenetrated structure for stable and efficient organic solar cells",
+      "authors": "T Hassan, R Hussain, MU Khan, U Habiba, Z Irshad, M Adnan, J Lim",
+      "venue": "Materials Science in Semiconductor Processing 151, 107010, 2022",
+      "year": 2022,
+      "citations": 64,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:e5wmG9Sq2KIC",
+      "doi": "10.1016/j.mssp.2022.107010"
+    },
+    {
+      "title": "Theoretical modelling of novel indandione-based donor molecules for organic solar cell applications",
+      "authors": "MY Mehboob, R Hussain, M Adnan, U Farwa, Z Irshad, MRSA Janjua",
+      "venue": "Journal of Physics and Chemistry of Solids 162, 110508, 2022",
+      "year": 2022,
+      "citations": 58,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:IWHjjKOFINEC",
+      "doi": "10.1016/j.jpcs.2021.110508"
+    },
+    {
+      "title": "Insights into the nonlinear optical (NLO) response of pure Aum (2 ≥ m ≤ 7) and copper-doped Aum–xCux clusters",
+      "authors": "F Hussain, R Hussain, M Adnan, S Muhammad, Z Irshad, MU Khan, ...",
+      "venue": "RSC advances 12 (39), 25143-25153, 2022",
+      "year": 2022,
+      "citations": 54,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:Tiz5es2fbqcC",
+      "doi": "10.1039/D2RA03664A"
+    },
+    {
+      "title": "Simple preparation of highly efficient MAxFA1−xPbI3 perovskite films from an aqueous halide-free lead precursor by all dip-coating approach and application in …",
+      "authors": "Z Irshad, M Adnan, JK Lee",
+      "venue": "Journal of Materials Science 57 (3), 1936-1946, 2022",
+      "year": 2022,
+      "citations": 53,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:hFOr9nPyWt4C",
+      "doi": ""
+    },
+    {
+      "title": "Ab initio study of two-dimensional cross-shaped non-fullerene acceptors for efficient organic solar cells",
+      "authors": "S Riaz, R Hussain, M Adnan, MU Khan, S Muhammad, J Yaqoob, MU Alvi, ...",
+      "venue": "ACS omega 7 (12), 10638-10648, 2022",
+      "year": 2022,
+      "citations": 49,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:HDshCWvjkbEC",
+      "doi": "10.1021/acsomega.2c00285"
+    },
+    {
+      "title": "Efficient designing of half-moon-shaped chalcogen heterocycles as non-fullerene acceptors for organic solar cells",
+      "authors": "MY Mehboob, R Hussain, MU Khan, M Adnan, MU Alvi, J Yaqoob, ...",
+      "venue": "Journal of Molecular Modeling 28 (5), 125, 2022",
+      "year": 2022,
+      "citations": 46,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:TQgYirikUcIC",
+      "doi": "10.1007/s00894-022-05116-9"
+    },
+    {
+      "title": "Controlling phase and morphology of all-dip-coating processed HC (NH2) 2PbI3 perovskite layers from an aqueous halide-free lead precursor",
+      "authors": "Z Irshad, M Adnan, JK Lee",
+      "venue": "Journal of Physics and Chemistry of Solids 160, 110374, 2022",
+      "year": 2022,
+      "citations": 45,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:QIV2ME_5wuYC",
+      "doi": "10.1016/j.jpcs.2021.110374"
+    },
+    {
+      "title": "Impact of π-linker modifications on the photovoltaic performance of rainbow-shaped acceptor molecules for high performance organic solar cell applications",
+      "authors": "MY Mehboob, R Hussain, M Adnan, Z Irshad, M Khalid",
+      "venue": "Physica B: Condensed Matter 625, 413465, 2022",
+      "year": 2022,
+      "citations": 44,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:ZeXyd9-uunAC",
+      "doi": "10.1016/j.physb.2021.413465"
+    },
+    {
+      "title": "Role of novel carbon-oxygen-bridged Z-shaped non-fullerene acceptors for high efficiency organic solar cells",
+      "authors": "R Hussain, M Adnan, S Nawab, MU Khan, M Khalid, Z Irshad, K Ayub, ...",
+      "venue": "Synthetic Metals 290, 117159, 2022",
+      "year": 2022,
+      "citations": 36,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:_Qo2XoVZTnwC",
+      "doi": "10.1016/j.synthmet.2022.117159"
+    },
+    {
+      "title": "Sequentially dip-coated processed MAyFA1−yPbI3−xBrx perovskite layers from an aqueous halide-free lead precursor for efficient perovskite solar cells",
+      "authors": "Z Irshad, M Adnan, JK Lee",
+      "venue": "Journal of Materials Science: Materials in Electronics 33 (18), 15132-15142, 2022",
+      "year": 2022,
+      "citations": 36,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:R3hNpaxXUhUC",
+      "doi": "10.1007/s10854-022-08432-1"
+    },
+    {
+      "title": "Insighting the inhibitory potential of novel modafinil drug derivatives against estrogen alpha (ERα) of breast cancer through a triple hybrid computational methodology",
+      "authors": "A Saba, F Sarwar, S Muhammad, M Ilyas, J Iqbal, AG Al-Sehemi, K Ayub, ...",
+      "venue": "Journal of molecular liquids 366, 120234, 2022",
+      "year": 2022,
+      "citations": 34,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:j3f4tGmQtD8C",
+      "doi": "10.1016/j.molliq.2022.120234"
+    },
+    {
+      "title": "Exploring the inhibitory potential of novel bioactive compounds from mangrove actinomycetes against nsp10 the major activator of SARS-CoV-2 replication",
+      "authors": "S Muhammad, M Qaisar, J Iqbal, RA Khera, AG Al-Sehemi, SS Alarfaji, ...",
+      "venue": "Chemical Papers 76 (5), 3051-3064, 2022",
+      "year": 2022,
+      "citations": 33,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:mB3voiENLucC",
+      "doi": "10.1007/s11696-021-01997-x"
+    },
+    {
+      "title": "Environmentally compatible 3‐dimensional star‐shaped donor materials for efficient organic solar cells",
+      "authors": "R Hussain, M Adnan, Z Irshad, S Muhammad, MU Khan, J Lim",
+      "venue": "International Journal of Energy Research 46 (15), 22145-22161, 2022",
+      "year": 2022,
+      "citations": 31,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:RHpTSmoSYBkC",
+      "doi": "10.1002/er.8617"
+    },
+    {
+      "title": "In silico modelling of acceptor materials by End-capped and π-linker modifications for High-Performance organic solar Cells: Estimated PCE> 18%",
+      "authors": "MY Mehboob, R Zaier, R Hussain, M Adnan, MMA Iqbal, Z Irshad, I Bilal, ...",
+      "venue": "Computational and Theoretical Chemistry 1208, 113555, 2022",
+      "year": 2022,
+      "citations": 27,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:hC7cP41nSMkC",
+      "doi": ""
+    },
+    {
+      "title": "Over 1000 nm photoresponse with cyclopentadithiophene-based non-fullerene acceptors for efficient organic solar cells",
+      "authors": "A Rafique, R Hussain, Z Irshad, M Adnan, J Lim",
+      "venue": "Computational and Theoretical Chemistry 1216, 113852, 2022",
+      "year": 2022,
+      "citations": 25,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:4JMBOYKVnBMC",
+      "doi": "10.1016/j.comptc.2022.113852"
+    },
+    {
+      "title": "Investigating the role of novel benzotrithiophene-based bat-shaped non-fullerene acceptors for high performance organic solar cells",
+      "authors": "K Atiq, R Hussain, M Adnan, MU Khan, Z Irshad, J Yaqoob, M Khalid, ...",
+      "venue": "Journal of Computational Biophysics and Chemistry 21 (08), 981-998, 2022",
+      "year": 2022,
+      "citations": 18,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:r0BpntZqJG4C",
+      "doi": "10.1142/s2737416522500442"
+    },
+    {
+      "title": "Designing of benzodithiophene core-based small molecular acceptors for efficient non-fullerene organic solar cells",
+      "authors": "MY Mehboob, MU Khan, R Hussain, K Ayub, A Sattar, MK Ahmad, ...",
+      "venue": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 244, 118873, 2021",
+      "year": 2021,
+      "citations": 155,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:UebtZRa9Y70C",
+      "doi": "10.1016/j.saa.2020.118873"
+    },
+    {
+      "title": "Efficient designing of triphenylamine-based hole transport materials with outstanding photovoltaic characteristics for organic solar cells",
+      "authors": "R Hussain, MY Mehboob, MU Khan, M Khalid, Z Irshad, R Fatima, ...",
+      "venue": "Journal of Materials Science 56 (8), 5113-5131, 2021",
+      "year": 2021,
+      "citations": 133,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:5nxA0vEk-isC",
+      "doi": "10.1007/s10853-020-05567-6"
+    },
+    {
+      "title": "Quantum chemical design of near‐infrared sensitive fused ring electron acceptors containing selenophene as π‐bridge for high‐performance organic solar cells",
+      "authors": "MY Mehboob, R Hussain, MU Khan, M Adnan, MA Ehsan, A Rehman, ...",
+      "venue": "Journal of Physical Organic Chemistry 34 (8), e4204, 2021",
+      "year": 2021,
+      "citations": 88,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:kNdYIx-mwKoC",
+      "doi": "10.1002/poc.4204"
+    },
+    {
+      "title": "In silico designing of efficient C-shape non-fullerene acceptor molecules having quinoid structure with remarkable photovoltaic properties for high-performance organic solar cells",
+      "authors": "M Adnan, MY Mehboob, R Hussain, Z Irshad",
+      "venue": "Optik 241, 166839, 2021",
+      "year": 2021,
+      "citations": 81,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:4TOpqqG69KYC",
+      "doi": ""
+    },
+    {
+      "title": "Efficient tuning of zinc phthalocyanine-based dyes for dye-sensitized solar cells: a detailed DFT study",
+      "authors": "SA Siddique, M Arshad, S Naveed, MY Mehboob, M Adnan, R Hussain, ...",
+      "venue": "RSC advances 11 (44), 27570-27582, 2021",
+      "year": 2021,
+      "citations": 76,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:9ZlFYXVOiuMC",
+      "doi": "10.1039/d1ra04529f"
+    },
+    {
+      "title": "Designing of U‐shaped acceptor molecules for indoor and outdoor organic solar cell applications",
+      "authors": "MY Mehboob, R Hussain, Z Irshad, M Adnan",
+      "venue": "Journal of Physical Organic Chemistry 34 (8), e4210, 2021",
+      "year": 2021,
+      "citations": 72,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:Zph67rFs4hoC",
+      "doi": "10.1002/poc.4210"
+    },
+    {
+      "title": "Quantum chemical designing of banana-shaped acceptor materials with outstanding photovoltaic properties for high-performance non-fullerene organic solar cells",
+      "authors": "MY Mehboob, M Adnan, R Hussain, Z Irshad",
+      "venue": "Synthetic Metals 277, 116800, 2021",
+      "year": 2021,
+      "citations": 71,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:KlAtU1dfN6UC",
+      "doi": "10.1016/j.synthmet.2021.116800"
+    },
+    {
+      "title": "Enhancement in the photovoltaic properties of hole transport materials by end‐capped donor modifications for solar cell applications",
+      "authors": "MY Mehboob, R Hussain, Z Irshad, M Adnan",
+      "venue": "Bulletin of the Korean Chemical Society 42 (4), 597-610, 2021",
+      "year": 2021,
+      "citations": 63,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:MXK_kJrjxJIC",
+      "doi": "10.1002/bkcs.12238"
+    },
+    {
+      "title": "Efficient Cu Decorated Inorganic B12P12 Nanoclusters for Sensing Toxic COCl2 Gas: A Detailed DFT Study",
+      "authors": "F Younas, MY Mehboob, K Ayub, R Hussain, A Umar, MU Khan, Z Irshad, ...",
+      "venue": "Journal of Computational Biophysics and Chemistry 20 (01), 85-97, 2021",
+      "year": 2021,
+      "citations": 63,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:8k81kl-MbHgC",
+      "doi": "10.1142/s273741652150006x"
+    },
+    {
+      "title": "Designing of Inorganic Al12N12 Nanocluster with Fe, Co, Ni, Cu and Zn Metals for Efficient Hydrogen Storage Materials",
+      "authors": "MY Mehboob, F Hussain, R Hussain, S Ali, Z Irshad, M Adnan, K Ayub",
+      "venue": "Journal of Computational Biophysics and Chemistry 20 (04), 359-375, 2021",
+      "year": 2021,
+      "citations": 61,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:aqlVkmm33-oC",
+      "doi": ""
+    },
+    {
+      "title": "Banana-shaped nonfullerene acceptor molecules for highly stable and efficient organic solar cells",
+      "authors": "M Adnan, MY Mehboob, R Hussain, Z Irshad",
+      "venue": "Energy & Fuels 35 (14), 11496-11506, 2021",
+      "year": 2021,
+      "citations": 56,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:4DMP91E08xMC",
+      "doi": "10.1021/acs.energyfuels.1c01431"
+    },
+    {
+      "title": "End‐capped molecular engineering of S‐shaped hepta‐ring‐containing fullerene‐free acceptor molecules with remarkable photovoltaic characteristics for highly efficient organic …",
+      "authors": "MY Mehboob, R Hussain, M Adnan, Z Irshad",
+      "venue": "Energy Technology 9 (5), 2001090, 2021",
+      "year": 2021,
+      "citations": 55,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:YOwf2qJgpHMC",
+      "doi": ""
+    },
+    {
+      "title": "First principle theoretical designing of W-shaped Dithienosilole-based acceptor materials having efficient photovoltaic properties for high-performance organic solar cells",
+      "authors": "MY Mehboob, R Hussain, MMA Iqbal, Z Irshad, M Adnan",
+      "venue": "Journal of Physics and Chemistry of Solids 157, 110202, 2021",
+      "year": 2021,
+      "citations": 54,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:qxL8FJ1GzNcC",
+      "doi": "10.1016/j.jpcs.2021.110202"
+    },
+    {
+      "title": "Chemically modified quinoidal oligothiophenes for enhanced linear and third-order nonlinear optical properties",
+      "authors": "A Bibi, S Muhammad, S UrRehman, S Bibi, S Bashir, K Ayub, M Adnan, ...",
+      "venue": "ACS omega 6 (38), 24602, 2021",
+      "year": 2021,
+      "citations": 53,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:dhFuZR0502QC",
+      "doi": "10.1021/acsomega.1c03218"
+    },
+    {
+      "title": "Role of acceptor guests in tuning optoelectronic properties of benzothiadiazole core based non-fullerene acceptors for high-performance bulk-heterojunction organic solar cells",
+      "authors": "MY Mehboob, R Hussain, Z Irshad, M Adnan",
+      "venue": "Journal of Molecular Modeling 27 (8), 226, 2021",
+      "year": 2021,
+      "citations": 45,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:Wp0gIr-vW9MC",
+      "doi": "10.1007/s00894-021-04843-9"
+    },
+    {
+      "title": "Synergistic effects of fluorine, chlorine and bromine-substituted end-capped acceptor materials for highly efficient organic solar cells",
+      "authors": "MMA Iqbal, MY Mehboob, R Hussain, M Adnan, Z Irshad",
+      "venue": "Computational and Theoretical Chemistry 1202, 113335, 2021",
+      "year": 2021,
+      "citations": 41,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:M3ejUd6NZC8C",
+      "doi": "10.1016/j.comptc.2021.113335"
+    },
+    {
+      "title": "Butterfly-shaped hole transport materials with outstanding photovoltaic properties for organic solar cells",
+      "authors": "MY Mehboob, M Adnan, R Hussain, A Farhad, Z Irshad",
+      "venue": "Optical and Quantum Electronics 53 (9), 517, 2021",
+      "year": 2021,
+      "citations": 40,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:mVmsd5A6BfQC",
+      "doi": "10.1007/s11082-021-03162-w"
+    },
+    {
+      "title": "Designing and Encapsulation of Inorganic Nanoclusters with Be, Mg, and Ca Metals for Efficient Hydrogen Adsorption: A Step Forward Towards Hydrogen …",
+      "authors": "MY Mehboob, R Hussain, Z Irshad, U Farwa, M Adnan, S Muhammad",
+      "venue": "Journal of Computational Biophysics and Chemistry 20 (07), 687-705, 2021",
+      "year": 2021,
+      "citations": 24,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:L8Ckcad2t8MC",
+      "doi": ""
+    },
+    {
+      "title": "A systematic and comparative analysis of four major classes of DFT functionals to compute linear and nonlinear optical properties of benchmark molecules",
+      "authors": "A Waheed, S Muhammad, MA Gilani, M Adnan, Z Aloui",
+      "venue": "Journal of Computational Biophysics and Chemistry 20 (05), 517-528, 2021",
+      "year": 2021,
+      "citations": 24,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:7PzlFSSx8tAC",
+      "doi": "10.1142/s2737416521500307"
+    },
+    {
+      "title": "Adsorption of phosgene gas on pristine and copper-decorated B12N12 nanocages: a comparative DFT study",
+      "authors": "S Hussain, R Hussain, MY Mehboob, SAS Chatha, AI Hussain, A Umar, ...",
+      "venue": "ACS omega 5 (13), 7641, 2020",
+      "year": 2020,
+      "citations": 195,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:zYLM7Y9cAGgC",
+      "doi": "10.1021/acsomega.0c00507"
+    },
+    {
+      "title": "Designing N-phenylaniline-triazol configured donor materials with promising optoelectronic properties for high-efficiency solar cells",
+      "authors": "MY Mehboob, R Hussain, MU Khan, M Adnan, A Umar, MU Alvi, ...",
+      "venue": "Computational and Theoretical Chemistry 1186, 112908, 2020",
+      "year": 2020,
+      "citations": 181,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:YsMSGLbcyi4C",
+      "doi": "10.1016/j.comptc.2020.112908"
+    },
+    {
+      "title": "Enhancement in Photovoltaic Properties of N,N‐diethylaniline based Donor Materials by Bridging Core Modifications for Efficient Solar Cells",
+      "authors": "R Hussain, MU Khan, MY Mehboob, M Khalid, J Iqbal, K Ayub, M Adnan, ...",
+      "venue": "ChemistrySelect 5 (17), 5022-5034, 2020",
+      "year": 2020,
+      "citations": 148,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:Tyk-4Ss8FVUC",
+      "doi": "10.1002/slct.202000096"
+    },
+    {
+      "title": "Density functional theory study of palladium cluster adsorption on a graphene support",
+      "authors": "R Hussain, M Saeed, MY Mehboob, SU Khan, M Usman Khan, M Adnan, ...",
+      "venue": "RSC advances 10 (35), 20595-20607, 2020",
+      "year": 2020,
+      "citations": 143,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:W7OEmFMy1HYC",
+      "doi": "10.1039/d0ra01059f"
+    },
+    {
+      "title": "Designing spirobifullerene core based three‐dimensional cross shape acceptor materials with promising photovoltaic properties for high‐efficiency organic solar cells",
+      "authors": "MU Khan, MY Mehboob, R Hussain, Z Afzal, M Khalid, M Adnan",
+      "venue": "International Journal of Quantum Chemistry 120 (22), e26377, 2020",
+      "year": 2020,
+      "citations": 125,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:WF5omc3nYNoC",
+      "doi": "10.1002/qua.26377"
+    },
+    {
+      "title": "Designing indenothiophene-based acceptor materials with efficient photovoltaic parameters for fullerene-free organic solar cells",
+      "authors": "Z Afzal, R Hussain, MU Khan, M Khalid, J Iqbal, MU Alvi, M Adnan, ...",
+      "venue": "Journal of molecular modeling 26 (6), 137, 2020",
+      "year": 2020,
+      "citations": 120,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:Y0pCki6q_DkC",
+      "doi": "10.1007/s00894-020-04386-5"
+    },
+    {
+      "title": "Efficient tuning of triphenylamine-based donor materials for high-efficiency organic solar cells",
+      "authors": "SA Siddique, MBA Siddique, R Hussain, X Liu, MY Mehboob, Z Irshad, ...",
+      "venue": "Computational and Theoretical Chemistry 1191, 113045, 2020",
+      "year": 2020,
+      "citations": 116,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:0EnyYjriUFMC",
+      "doi": "10.1016/j.comptc.2020.113045"
+    },
+    {
+      "title": "Highly efficient planar heterojunction perovskite solar cells with sequentially dip-coated deposited perovskite layers from a non-halide aqueous lead precursor",
+      "authors": "M Adnan, JK Lee",
+      "venue": "RSC advances 10 (9), 5454-5461, 2020",
+      "year": 2020,
+      "citations": 110,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:IjCSPb-OGe4C",
+      "doi": "10.1039/c9ra09607h"
+    },
+    {
+      "title": "Designing triphenylamine‐configured donor materials with promising photovoltaic properties for highly efficient organic solar cells",
+      "authors": "M Bilal Ahmed Siddique, R Hussain, S Ali Siddique, M Yasir Mehboob, ...",
+      "venue": "ChemistrySelect 5 (25), 7358-7369, 2020",
+      "year": 2020,
+      "citations": 107,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:eQOLeE2rZwMC",
+      "doi": "10.1002/slct.202001989"
+    },
+    {
+      "title": "Facile all-dip-coating deposition of highly efficient (CH3)3NPbI3−xClx perovskite materials from aqueous non-halide lead precursor",
+      "authors": "M Adnan, Z Irshad, JK Lee",
+      "venue": "RSC advances 10 (48), 29010-29017, 2020",
+      "year": 2020,
+      "citations": 100,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:ufrVoPGSRksC",
+      "doi": "10.1039/d0ra06074g"
+    },
+    {
+      "title": "Designing of near-infrared sensitive asymmetric small molecular donors for high-efficiency organic solar cells",
+      "authors": "MY Mehboob, MU Khan, R Hussain, R Fatima, Z Irshad, M Adnan",
+      "venue": "Journal of Theoretical and Computational Chemistry 19 (08), 2050034, 2020",
+      "year": 2020,
+      "citations": 91,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:LkGwnXOMwfcC",
+      "doi": "10.1142/s0219633620500340"
+    },
+    {
+      "title": "Efficient planar heterojunction inverted perovskite solar cells with perovskite materials deposited using an aqueous non‐halide lead precursor",
+      "authors": "Z Irshad, M Adnan, JK Lee",
+      "venue": "Bulletin of the Korean Chemical Society 41 (9), 937-942, 2020",
+      "year": 2020,
+      "citations": 50,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:Se3iqnhoufwC",
+      "doi": "10.1002/bkcs.12092"
+    },
+    {
+      "title": "All sequential dip-coating processed perovskite layers from an aqueous lead precursor for high efficiency perovskite solar cells",
+      "authors": "M Adnan, JK Lee",
+      "venue": "Scientific reports 8 (1), 2168, 2018",
+      "year": 2018,
+      "citations": 193,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:9yKSN-GCB0IC",
+      "doi": "10.1038/s41598-018-20296-2"
+    },
+    {
+      "title": "Fine tuning the optoelectronic properties of triphenylamine based donor molecules for organic solar cells",
+      "authors": "M Adnan, J Iqbal, S BiBi, R Hussain, MN Akhtar, MA Rashid, B Eliasson, ...",
+      "venue": "Zeitschrift für Physikalische Chemie 231 (6), 1127-1139, 2017",
+      "year": 2017,
+      "citations": 116,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:qjMakFHDy7sC",
+      "doi": "10.1515/zpch-2016-0790"
+    },
+    {
+      "title": "Efficient synthesis and characterization of solvatochromic fluorophore",
+      "authors": "M Adnan, HS Kim, H Jeong, HM Ko, SK Woo, JK Lee",
+      "venue": "Bulletin of the Korean Chemical Society 38 (9), 1052-1057, 2017",
+      "year": 2017,
+      "citations": 58,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:_kc_bZDykSQC",
+      "doi": "10.1002/bkcs.11219"
+    }
+  ]
 }
