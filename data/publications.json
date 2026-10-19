@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-19",
   "source": "Google Scholar",
   "profile": {
-    "citations": 5115,
+    "citations": 5125,
     "h_index": 43,
     "i10_index": 95
   },
@@ -174,7 +174,7 @@
       "authors": "M Adnan, Z Irshad, J Lim",
       "venue": "Solar Energy 286, 113190, 2025",
       "year": 2025,
-      "citations": 29,
+      "citations": 30,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:b0M2c_1WBrUC",
       "doi": "10.1016/j.solener.2024.113190"
     },
@@ -183,7 +183,7 @@
       "authors": "N Shahzad, SAS Chatha, R Hussain, S Hussain, J Iqbal, M Adnan",
       "venue": "Journal of Fluorescence 35 (11), 10499-10524, 2025",
       "year": 2025,
-      "citations": 25,
+      "citations": 26,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:UxriW0iASnsC",
       "doi": ""
     },
@@ -215,6 +215,15 @@
       "doi": "10.1142/S2737416524500546"
     },
     {
+      "title": "Development of cost-effective diphenylamine substituted hole transporting materials for organic and perovskite solar cells",
+      "authors": "H Naz, M Adnan, Z Irshad, R Hussain, HW Darwish, J Yaqoob",
+      "venue": "Materials Science in Semiconductor Processing 186, 109089, 2025",
+      "year": 2025,
+      "citations": 13,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:f2IySw72cVMC",
+      "doi": ""
+    },
+    {
       "title": "Enhancing Optical and Optoelectronic Characteristics of Nonfused Ring-Containing Electron Acceptors for Efficient Organic Photovoltaics",
       "authors": "H Naz, M Hussain, M Adnan, R Hussain, Z Irshad, HW Darwish, U Farooq, ...",
       "venue": "The Journal of Physical Chemistry C 129 (26), 12204-12223, 2025",
@@ -222,15 +231,6 @@
       "citations": 12,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:OU6Ihb5iCvQC",
       "doi": "10.1021/acs.jpcc.5c03016"
-    },
-    {
-      "title": "Development of cost-effective diphenylamine substituted hole transporting materials for organic and perovskite solar cells",
-      "authors": "H Naz, M Adnan, Z Irshad, R Hussain, HW Darwish, J Yaqoob",
-      "venue": "Materials Science in Semiconductor Processing 186, 109089, 2025",
-      "year": 2025,
-      "citations": 12,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:f2IySw72cVMC",
-      "doi": ""
     },
     {
       "title": "Deciphering the Role of Rhodanine Flanked Non-Fullerene Acceptor Molecules for Efficient Organic Photovoltaics",
@@ -354,7 +354,7 @@
       "authors": "M Adnan, W Lee, Z Irshad, S Kim, S Yun, H Han, HS Chang, J Lim",
       "venue": "Small 20 (37), 2402268, 2024",
       "year": 2024,
-      "citations": 53,
+      "citations": 54,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:ZHo1McVdvXMC",
       "doi": "10.1002/smll.202402268"
     },
@@ -381,7 +381,7 @@
       "authors": "H Naz, M Adnan, Z Irshad, R Hussain, HW Darwish, M Ahmed",
       "venue": "ACS omega 9 (44), 44668-44688, 2024",
       "year": 2024,
-      "citations": 19,
+      "citations": 20,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:D03iK_w7-QYC",
       "doi": "10.1021/acsomega.4c07436"
     },
@@ -413,6 +413,15 @@
       "doi": "10.1002/poc.4662"
     },
     {
+      "title": "Molecular engineering of indacenodifuran-based non-fullerene acceptors for efficient organic solar cells",
+      "authors": "M Hussain, M Adnan, R Hussain, Z Irshad, AA Haidry, AR Chaudhry",
+      "venue": "Polycyclic Aromatic Compounds 44 (10), 6806-6833, 2024",
+      "year": 2024,
+      "citations": 15,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:2P1L_qKh6hAC",
+      "doi": "10.1080/10406638.2023.2284801"
+    },
+    {
       "title": "Development of dopant-free N, N′-bicarbazole-based hole transport materials for efficient perovskite solar cells",
       "authors": "M Adnan, H Naz, M Hussain, Z Irshad, R Hussain, HW Darwish",
       "venue": "International Journal of Molecular Sciences 25 (23), 13117, 2024",
@@ -420,15 +429,6 @@
       "citations": 14,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:EUQCXRtRnyEC",
       "doi": "10.3390/ijms252313117"
-    },
-    {
-      "title": "Molecular engineering of indacenodifuran-based non-fullerene acceptors for efficient organic solar cells",
-      "authors": "M Hussain, M Adnan, R Hussain, Z Irshad, AA Haidry, AR Chaudhry",
-      "venue": "Polycyclic Aromatic Compounds 44 (10), 6806-6833, 2024",
-      "year": 2024,
-      "citations": 14,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:2P1L_qKh6hAC",
-      "doi": "10.1080/10406638.2023.2284801"
     },
     {
       "title": "Sequential‐dip‐coating processed mixed organic and inorganic perovskite film from halide‐free lead precursor for efficient perovskite solar cells",
@@ -561,7 +561,7 @@
       "authors": "M Adnan, Z Irshad, R Hussain, W Lee, M Kim, J Lim",
       "venue": "Solar Energy 257, 324-343, 2023",
       "year": 2023,
-      "citations": 42,
+      "citations": 43,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:blknAaTinKkC",
       "doi": "10.1016/j.solener.2023.04.012"
     },
@@ -705,7 +705,7 @@
       "authors": "A Rasool, S Zahid, M Ans, J Iqbal, M Adnan, ESM Sherif, MS Al-Buriahi",
       "venue": "Optical Materials 123, 111907, 2022",
       "year": 2022,
-      "citations": 85,
+      "citations": 86,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:qUcmZB5y_30C",
       "doi": ""
     },
@@ -813,7 +813,7 @@
       "authors": "S Muhammad, M Qaisar, J Iqbal, RA Khera, AG Al-Sehemi, SS Alarfaji, ...",
       "venue": "Chemical Papers 76 (5), 3051-3064, 2022",
       "year": 2022,
-      "citations": 33,
+      "citations": 34,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:mB3voiENLucC",
       "doi": "10.1007/s11696-021-01997-x"
     },
@@ -953,6 +953,15 @@
       "doi": "10.1021/acs.energyfuels.1c01431"
     },
     {
+      "title": "Chemically modified quinoidal oligothiophenes for enhanced linear and third-order nonlinear optical properties",
+      "authors": "A Bibi, S Muhammad, S UrRehman, S Bibi, S Bashir, K Ayub, M Adnan, ...",
+      "venue": "ACS omega 6 (38), 24602, 2021",
+      "year": 2021,
+      "citations": 55,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:dhFuZR0502QC",
+      "doi": "10.1021/acsomega.1c03218"
+    },
+    {
       "title": "End‐capped molecular engineering of S‐shaped hepta‐ring‐containing fullerene‐free acceptor molecules with remarkable photovoltaic characteristics for highly efficient organic …",
       "authors": "MY Mehboob, R Hussain, M Adnan, Z Irshad",
       "venue": "Energy Technology 9 (5), 2001090, 2021",
@@ -969,15 +978,6 @@
       "citations": 54,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:qxL8FJ1GzNcC",
       "doi": "10.1016/j.jpcs.2021.110202"
-    },
-    {
-      "title": "Chemically modified quinoidal oligothiophenes for enhanced linear and third-order nonlinear optical properties",
-      "authors": "A Bibi, S Muhammad, S UrRehman, S Bibi, S Bashir, K Ayub, M Adnan, ...",
-      "venue": "ACS omega 6 (38), 24602, 2021",
-      "year": 2021,
-      "citations": 54,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:dhFuZR0502QC",
-      "doi": "10.1021/acsomega.1c03218"
     },
     {
       "title": "Role of acceptor guests in tuning optoelectronic properties of benzothiadiazole core based non-fullerene acceptors for high-performance bulk-heterojunction organic solar cells",
