@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-26",
   "source": "Google Scholar",
   "profile": {
-    "citations": 5125,
+    "citations": 5148,
     "h_index": 43,
-    "i10_index": 95
+    "i10_index": 96
   },
   "publications": [
     {
@@ -107,6 +107,24 @@
       "doi": ""
     },
     {
+      "title": "Mechanistic insights into silver-doped gold clusters for advanced photonic and nonlinear optical response",
+      "authors": "F Hussain, R Hussain, Z Irshad, K Ayub, M Imran, M Ahmad, M Adnan",
+      "venue": "RSC advances, 2026",
+      "year": 2026,
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:q3oQSFYPqjQC",
+      "doi": "10.1039/D6RA07257G"
+    },
+    {
+      "title": "Correlation Between Propeller Geometry and Charge Extraction Dynamics in NI-Based Cathode Interfacial Materials",
+      "authors": "H Naz, R Hussain, M Imran, U Farooq, M Hussain, Z Irshad, J Lim, ...",
+      "venue": "Surfaces and Interfaces, 110282, 2026",
+      "year": 2026,
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:eflP2zaiRacC",
+      "doi": "10.1016/j.surfin.2026.110282"
+    },
+    {
       "title": "Investigating Charge-Carrier Dynamics in Heteroatom-Functionalized Triphenylamine Hole Transport Materials for Perovskite Solar Cells",
       "authors": "F Iram, Z Irshad, R Hussain, M Imran, M Ahmed, M Adnan, JK Lee",
       "venue": "Journal of Fluorescence, 1-24, 2026",
@@ -134,11 +152,20 @@
       "doi": ""
     },
     {
+      "title": "Chemical Functionality Engineering of Anti‐Solvent Additives for Photostable Perovskite Solar Cells",
+      "authors": "W Lee, M Adnan, Z Irshad, S Kim, S Yun, H Han, M Lee, DG Lee, H Son, ...",
+      "venue": "Small, e76245, 2026",
+      "year": 2026,
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:BrmTIyaxlBUC",
+      "doi": "10.1002/smll.76245"
+    },
+    {
       "title": "Advancing heteroatom-enhanced A-DA’DA pentacyclic small molecule-based acceptors to improve the optoelectronic characteristics for organic photovoltaics",
       "authors": "A Ghaffar, M Adnan, Z Irshad, R Hussain, A Ghaffar, HW Darwish, ...",
       "venue": "Journal of Physics and Chemistry of Solids 200, 112610, 2025",
       "year": 2025,
-      "citations": 41,
+      "citations": 42,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:NhqRSupF_l8C",
       "doi": ""
     },
@@ -147,7 +174,7 @@
       "authors": "MN Mustafa, F Hussain, M Hussain, R Hussain, K Ayub, S Muhammad, ...",
       "venue": "Advanced Theory and Simulations 8 (4), 2401202, 2025",
       "year": 2025,
-      "citations": 36,
+      "citations": 38,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:abG-DnoFyZgC",
       "doi": ""
     },
@@ -156,7 +183,7 @@
       "authors": "Salwa, M Adnan, Z Irshad, R Hussain, HW Darwish, F Hussain, M Ahmed",
       "venue": "Energy Technology 13 (3), 2401529, 2025",
       "year": 2025,
-      "citations": 35,
+      "citations": 36,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:pyW8ca7W8N0C",
       "doi": "10.1002/ente.202401529"
     },
@@ -165,7 +192,7 @@
       "authors": "F Hussain, R Hussain, Z Irshad, M Hussain, MU Khan, J Yaqoob, K Ayub, ...",
       "venue": "The Journal of Physical Chemistry A 129 (34), 7853-7862, 2025",
       "year": 2025,
-      "citations": 31,
+      "citations": 33,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:WbkHhVStYXYC",
       "doi": "10.1021/acs.jpca.5c04139"
     },
@@ -201,7 +228,7 @@
       "authors": "F Tahir, M Adnan, Z Irshad, R Hussain, HW Darwish, MMA Iqbal, ...",
       "venue": "Journal of Physics and Chemistry of Solids 196, 112301, 2025",
       "year": 2025,
-      "citations": 22,
+      "citations": 24,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:dfsIfKJdRG4C",
       "doi": "10.1016/j.jpcs.2024.112301"
     },
@@ -237,7 +264,7 @@
       "authors": "Z Irshad, M Hussain, R Hussain, M Adnan",
       "venue": "International Journal of Molecular Sciences 26 (7), 3314, 2025",
       "year": 2025,
-      "citations": 10,
+      "citations": 11,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:nb7KW1ujOQ8C",
       "doi": "10.3390/ijms26073314"
     },
@@ -246,7 +273,7 @@
       "authors": "P Saeed, M Adnan, Z Irshad, R Hussain, HW Darwish, M Hussain, ...",
       "venue": "Energy Technology 13 (10), 2402465, 2025",
       "year": 2025,
-      "citations": 9,
+      "citations": 10,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:P5F9QuxV20EC",
       "doi": "10.1002/ente.202402465"
     },
@@ -354,7 +381,7 @@
       "authors": "M Adnan, W Lee, Z Irshad, S Kim, S Yun, H Han, HS Chang, J Lim",
       "venue": "Small 20 (37), 2402268, 2024",
       "year": 2024,
-      "citations": 54,
+      "citations": 55,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:ZHo1McVdvXMC",
       "doi": "10.1002/smll.202402268"
     },
@@ -372,7 +399,7 @@
       "authors": "M Adnan, M Kashif, Z Irshad, R Hussain, HW Darwish, J Lim",
       "venue": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 320, 124615, 2024",
       "year": 2024,
-      "citations": 29,
+      "citations": 30,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:rO6llkc54NcC",
       "doi": "10.1016/j.saa.2024.124615"
     },
@@ -444,9 +471,18 @@
       "authors": "S Fatima, S Muhammad, S Bibi, KS Munawar, AG Al-Sehemi, ...",
       "venue": "Journal of Molecular Graphics and Modelling 128, 108723, 2024",
       "year": 2024,
-      "citations": 13,
+      "citations": 14,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:g5m5HwL7SMYC",
       "doi": "10.1016/j.jmgm.2024.108723"
+    },
+    {
+      "title": "Systematic Engineering of Near-Infrared Small Molecules Based on 4H-Cyclopenta [1, 2-b: 5, 4-b′] dithiophene Acceptors for Organic Solar Cells",
+      "authors": "M Hussain, M Adnan, Z Irshad, R Hussain, HW Darwish",
+      "venue": "ACS omega 9 (26), 28791, 2024",
+      "year": 2024,
+      "citations": 12,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:fPk4N6BV_jEC",
+      "doi": "10.1021/acsomega.4c03181"
     },
     {
       "title": "Systematic quantum chemical tailoring to the molecular structure, optical and nonlinear optical properties of N/B dopped C60 buckminsterfullerene",
@@ -465,15 +501,6 @@
       "citations": 10,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:SeFeTyx0c_EC",
       "doi": "10.1016/j.comptc.2024.114637"
-    },
-    {
-      "title": "Systematic Engineering of Near-Infrared Small Molecules Based on 4H-Cyclopenta [1, 2-b: 5, 4-b′] dithiophene Acceptors for Organic Solar Cells",
-      "authors": "M Hussain, M Adnan, Z Irshad, R Hussain, HW Darwish",
-      "venue": "ACS omega 9 (26), 28791, 2024",
-      "year": 2024,
-      "citations": 10,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:fPk4N6BV_jEC",
-      "doi": "10.1021/acsomega.4c03181"
     },
     {
       "title": "Quantum chemical tailoring of intrinsic donor–acceptor configurations as efficient nonlinear optical materials",
@@ -588,7 +615,7 @@
       "authors": "M Adnan",
       "venue": "International Journal of Molecular Sciences 24 (8), 7457, 2023",
       "year": 2023,
-      "citations": 38,
+      "citations": 39,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:M3NEmzRMIkIC",
       "doi": "10.3390/ijms24087457"
     },
@@ -642,7 +669,7 @@
       "authors": "F Zafar, R Hussain, M Adnan, A Rani, J Lim, WUI Zafar, J Iqbal, MN Shahi",
       "venue": "Molecular Physics 121 (21), e2231571, 2023",
       "year": 2023,
-      "citations": 16,
+      "citations": 17,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:RGFaLdJalmkC",
       "doi": "10.1080/00268976.2023.2231571"
     },
@@ -732,7 +759,7 @@
       "authors": "F Hussain, R Hussain, M Adnan, S Muhammad, Z Irshad, MU Khan, ...",
       "venue": "RSC advances 12 (39), 25143-25153, 2022",
       "year": 2022,
-      "citations": 55,
+      "citations": 57,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:Tiz5es2fbqcC",
       "doi": "10.1039/D2RA03664A"
     },
@@ -791,6 +818,15 @@
       "doi": "10.1016/j.synthmet.2022.117159"
     },
     {
+      "title": "Insighting the inhibitory potential of novel modafinil drug derivatives against estrogen alpha (ERα) of breast cancer through a triple hybrid computational methodology",
+      "authors": "A Saba, F Sarwar, S Muhammad, M Ilyas, J Iqbal, AG Al-Sehemi, K Ayub, ...",
+      "venue": "Journal of molecular liquids 366, 120234, 2022",
+      "year": 2022,
+      "citations": 36,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:j3f4tGmQtD8C",
+      "doi": "10.1016/j.molliq.2022.120234"
+    },
+    {
       "title": "Sequentially dip-coated processed MAyFA1−yPbI3−xBrx perovskite layers from an aqueous halide-free lead precursor for efficient perovskite solar cells",
       "authors": "Z Irshad, M Adnan, JK Lee",
       "venue": "Journal of Materials Science: Materials in Electronics 33 (18), 15132-15142, 2022",
@@ -800,20 +836,11 @@
       "doi": "10.1007/s10854-022-08432-1"
     },
     {
-      "title": "Insighting the inhibitory potential of novel modafinil drug derivatives against estrogen alpha (ERα) of breast cancer through a triple hybrid computational methodology",
-      "authors": "A Saba, F Sarwar, S Muhammad, M Ilyas, J Iqbal, AG Al-Sehemi, K Ayub, ...",
-      "venue": "Journal of molecular liquids 366, 120234, 2022",
-      "year": 2022,
-      "citations": 35,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:j3f4tGmQtD8C",
-      "doi": "10.1016/j.molliq.2022.120234"
-    },
-    {
       "title": "Exploring the inhibitory potential of novel bioactive compounds from mangrove actinomycetes against nsp10 the major activator of SARS-CoV-2 replication",
       "authors": "S Muhammad, M Qaisar, J Iqbal, RA Khera, AG Al-Sehemi, SS Alarfaji, ...",
       "venue": "Chemical Papers 76 (5), 3051-3064, 2022",
       "year": 2022,
-      "citations": 34,
+      "citations": 35,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:mB3voiENLucC",
       "doi": "10.1007/s11696-021-01997-x"
     },
@@ -886,7 +913,7 @@
       "venue": "Optik 241, 166839, 2021",
       "year": 2021,
       "citations": 81,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:4TOpqqG69KYC",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:4TOpqqG69KYC",
       "doi": ""
     },
     {
@@ -917,6 +944,15 @@
       "doi": "10.1016/j.synthmet.2021.116800"
     },
     {
+      "title": "Designing of Inorganic Al12N12 Nanocluster with Fe, Co, Ni, Cu and Zn Metals for Efficient Hydrogen Storage Materials",
+      "authors": "MY Mehboob, F Hussain, R Hussain, S Ali, Z Irshad, M Adnan, K Ayub",
+      "venue": "Journal of Computational Biophysics and Chemistry 20 (04), 359-375, 2021",
+      "year": 2021,
+      "citations": 63,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:aqlVkmm33-oC",
+      "doi": ""
+    },
+    {
       "title": "Enhancement in the photovoltaic properties of hole transport materials by end‐capped donor modifications for solar cell applications",
       "authors": "MY Mehboob, R Hussain, Z Irshad, M Adnan",
       "venue": "Bulletin of the Korean Chemical Society 42 (4), 597-610, 2021",
@@ -935,15 +971,6 @@
       "doi": "10.1142/s273741652150006x"
     },
     {
-      "title": "Designing of Inorganic Al12N12 Nanocluster with Fe, Co, Ni, Cu and Zn Metals for Efficient Hydrogen Storage Materials",
-      "authors": "MY Mehboob, F Hussain, R Hussain, S Ali, Z Irshad, M Adnan, K Ayub",
-      "venue": "Journal of Computational Biophysics and Chemistry 20 (04), 359-375, 2021",
-      "year": 2021,
-      "citations": 62,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:aqlVkmm33-oC",
-      "doi": ""
-    },
-    {
       "title": "Banana-shaped nonfullerene acceptor molecules for highly stable and efficient organic solar cells",
       "authors": "M Adnan, MY Mehboob, R Hussain, Z Irshad",
       "venue": "Energy & Fuels 35 (14), 11496-11506, 2021",
@@ -957,7 +984,7 @@
       "authors": "A Bibi, S Muhammad, S UrRehman, S Bibi, S Bashir, K Ayub, M Adnan, ...",
       "venue": "ACS omega 6 (38), 24602, 2021",
       "year": 2021,
-      "citations": 55,
+      "citations": 56,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:dhFuZR0502QC",
       "doi": "10.1021/acsomega.1c03218"
     },
@@ -1003,7 +1030,7 @@
       "venue": "Optical and Quantum Electronics 53 (9), 517, 2021",
       "year": 2021,
       "citations": 40,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:mVmsd5A6BfQC",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:mVmsd5A6BfQC",
       "doi": "10.1007/s11082-021-03162-w"
     },
     {
@@ -1021,7 +1048,7 @@
       "venue": "Journal of Computational Biophysics and Chemistry 20 (05), 517-528, 2021",
       "year": 2021,
       "citations": 24,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:7PzlFSSx8tAC",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IPrRziQAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=IPrRziQAAAAJ:7PzlFSSx8tAC",
       "doi": "10.1142/s2737416521500307"
     },
     {
